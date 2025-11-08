@@ -53,4 +53,4 @@ def skill_page(id):
     return f"<pre>{text}</pre>"
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
