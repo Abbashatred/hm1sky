@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Алексей Иванов",
+        "position": "Backend Developer",
+        "skills": ["python", "flask", "sql"],
+        "picture": "https://static.photogeek.ru/blogs/2012/01/16/1669_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Мария Смирнова",
+        "position": "Frontend Developer",
+        "skills": ["javascript", "react", "css"],
+        "picture": "https://thumbs.dreamstime.com/b/%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B5-%D1%84%D0%BE%D1%82%D0%BE-%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F-%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D0%BE%D0%B3%D0%BE-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0-257447853.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Дмитрий Кузнецов",
+        "position": "Data Scientist",
+        "skills": ["python", "pandas"],
+        "picture": "https://media.istockphoto.com/id/805010264/id/foto/potret-tersenyum-dewasa-pria-hispanik.jpg?s=612x612&w=0&k=20&c=cFzD7voLSlmgJjo9vgAaVy1azDmrdHRdQYYEIiW5ylg="
+    }
+]
